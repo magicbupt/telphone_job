@@ -1,0 +1,6 @@
+2013-04-08 17:41:05 ERROR    Request[identify_tel_recharge.py:  72]: global name 'DBfactory' is not defined
+2013-04-08 17:42:19 ERROR    Request[identify_tel_recharge.py:  72]: (DB connect Error)(1045, "Access denied for user 'caiting'@'h253015' (using password: YES)")
+2013-04-08 17:44:02 ERROR    Request[identify_tel_recharge.py:  72]: (DB connect Error)(2003, "Can't connect to MySQL server on '172.16.130.78' (113)")
+2013-04-08 17:46:13 ERROR    Request[identify_tel_recharge.py:  72]: (DB connect Error)(1045, "Access denied for user 'caiting'@'h253015' (using password: YES)")
+2013-04-08 17:54:45 ERROR    Request[identify_tel_recharge.py:  72]: (DB connect Error)(1045, "Access denied for user 'caiting'@'h253015' (using password: YES)")
+2013-04-08 18:00:25 ERROR    Request[identify_tel_recharge.py:  71]: (DB connect Error)(2019, "Can't initialize character set utf-8 (path: /usr/share/mysql/charsets/)")
